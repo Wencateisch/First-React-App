@@ -1,8 +1,8 @@
-import './App.css';
-import Header from "C:/Users/mudig/OneDrive/Documents/React/first-app-venkatesh/src/Components/Header.js";
-import { About } from "C:/Users/mudig/OneDrive/Documents/React/first-app-venkatesh/src/Components/About.js";
-import { Footer } from "C:/Users/mudig/OneDrive/Documents/React/first-app-venkatesh/src/Components/Footer.js";
-import { Todo } from "C:/Users/mudig/OneDrive/Documents/React/first-app-venkatesh/src/Components/Todo.js";
+import "App.css";
+import Header from "Header.js";
+import { About } from "About.js";
+import { Footer } from "Footer.js";
+import { Todo } from "Todo.js";
 
 function App() {
 
