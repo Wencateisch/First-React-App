@@ -1,5 +1,5 @@
 import React from 'react'
-import { TodoItem } from "C:/Users/mudig/OneDrive/Documents/React/first-app-venkatesh/src/Components/TodoItem.js";
+import { TodoItem } from "TodoItem.js";
 
 export const Todo = (props) => {
 
